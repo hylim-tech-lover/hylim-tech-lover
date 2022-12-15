@@ -123,9 +123,10 @@
 <hr>
 
 <div align="center">
-<img src="https://./generated" width="35px" alt="commit history animation" />
+<img src="./generated/snake_animation.svg" alt="commit history animation" />
 <br>
-<img src="https://." width="35px" alt="commit history 3D plot" />
+<br>
+<img src="/." width="35px" alt="commit history 3D plot" />
 <div>
 
 </div>
