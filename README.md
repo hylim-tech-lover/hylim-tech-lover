@@ -3,7 +3,7 @@
 
 
 <div>
-<img align="right" src="./coder.gif" alt="adam-pw" /></p>
+<img align="right" src="./assets/coding_guy.gif" alt="adam-pw" /></p>
 
 <div>
 
