@@ -27,10 +27,7 @@
 <img height="42" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" />
 &nbsp;
 <img height="42" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" />
-</div>
-
-<br>
-<div>
+&nbsp;
 <img height="42" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust"  />
 &nbsp;
 <img height="42" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" />
@@ -52,8 +49,6 @@
 </div>
 <br>
 <br>
-<br>
-<br>
 <div>
 <h3>
 <img src="https://media2.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" width="30px">&nbsp;Programming and DevOps Tools:
@@ -73,12 +68,9 @@
 <img height="42" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn" />
 &nbsp;
 <img height="42" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis"  />
-
+&nbsp;
 <img height="42" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" />
-</div>
-<br>
-
-<div>
+&nbsp;
 <img height="42" width="42" src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png" alt="gRPC" />
 &nbsp;
 <img height="42" width="42" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" />
