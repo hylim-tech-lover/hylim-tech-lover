@@ -123,10 +123,10 @@
 <hr>
 
 <div align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="commit history 3D plot" />
+<br>
+<br>
 <img src="./generated/snake_animation.svg" alt="commit history animation" />
-<br>
-<br>
-<img src="/." width="35px" alt="commit history 3D plot" />
 <div>
 
 </div>
