@@ -1,0 +1,32 @@
+name: Generate snake animation
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    name: Generate SVG file
+    steps:
+        - uses: actions/checkout@v2
+        - uses: Platane/snk@v2
+          with:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           github_user_name: ${{ github.repository_owner }}
+           outputs: generated/snake_animation.svg
+
+        - name: Commit & Push
+          run: |
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add -A .
+            git commit -m "Generated snake animation"
+            git push
