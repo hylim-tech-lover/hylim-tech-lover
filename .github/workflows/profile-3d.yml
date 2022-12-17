@@ -2,7 +2,7 @@ name: Generate 3D Commit Profiling
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "30 */12 * * *"
 
   workflow_dispatch:
 
