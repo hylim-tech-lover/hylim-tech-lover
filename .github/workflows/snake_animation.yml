@@ -25,6 +25,7 @@ jobs:
               generated/snake-animation-dark.svg?palette=github-dark
           env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           USERNAME: ${{ github.repository_owner }}
           
 
         - name: Commit & Push
