@@ -19,11 +19,13 @@ jobs:
         - uses: actions/checkout@v2
         - uses: Platane/snk/svg-only@v2
           with:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
            github_user_name: ${{ github.repository_owner }}
            outputs: |
               generated/snake-animation.svg
               generated/snake-animation-dark.svg?palette=github-dark
+          env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
 
         - name: Commit & Push
           run: |
