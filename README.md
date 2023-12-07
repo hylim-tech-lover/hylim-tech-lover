@@ -108,7 +108,7 @@
 <img height="150" src="https://github-readme-stats-hylim-tech-lover.vercel.app/api/top-langs?username=hylim-tech-lover&hide=jupyter%20notebook,scss,html&langs_count=6&show_icons=true&locale=en&layout=compact&theme=transparent" alt="lang" 
 />
 &nbsp;
-<img height="150" src="https://github-readme-stats-q9iehcv70-hylim-tech-lover.vercel.app/api?username=hylim-tech-lover&show_icons=true&locale=en&theme=transparent" alt="stat" /></p>
+<img height="150" src="https://github-readme-stats-hylim-tech-lover.vercel.app/api?username=hylim-tech-lover&show_icons=true&locale=en&theme=transparent" alt="stat" /></p>
 </div>
 
 <hr>
